@@ -1,7 +1,7 @@
 # Home Network Topology 
 Introduction:
 
-In today's interconnected world, home networks play a crucial role in our daily lives. However, many home networks are vulnerable to various security risks due to their default configurations and lack of robust security measures. This introduction will outline the topology of a typical unsecure home network, comprising only a modem from the Internet Service Provider (ISP) and a wireless router. Furthermore, it will introduce a project aimed at enhancing the network's security by implementing a suite of powerful tools and technologies, including pfSense firewall, Suricata, OpenVPN, Zeek, and a Wazuh server.
+In today's interconnected world, home networks play a crucial role in our daily lives. However, many home networks are vulnerable to various security risks due to their default configurations and lack of robust security measures. This introduction will outline the topology of a typical unsecure home network, comprising only a modem from the Internet Service Provider (ISP) and a wireless router. Furthermore, it will introduce a project aimed at enhancing the network's security by implementing a suite of free open-sourced tools and technologies, including pfSense firewall, Suricata, OpenVPN, Zeek, and a Wazuh SIEM server.
 
 # Unsecure Home Network Topology:
 
