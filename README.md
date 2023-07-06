@@ -31,3 +31,4 @@ Wazuh Server: A Wazuh server will be deployed to provide centralized security mo
 
 By implementing this comprehensive suite of security tools and technologies, the home network will be fortified against a wide range of security threats. The project aims to create a secure and robust network environment, ensuring the privacy, integrity, and confidentiality of the network's data and devices.
 
+  -  [Implementing PfSense Firewall to Home Network ](https://github.com/HPastoral/PfSense-Firewall/edit/main/README.md)
